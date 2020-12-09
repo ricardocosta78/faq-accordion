@@ -71,7 +71,7 @@ body {
 .card .img .img-princ-desk {
   display: none;
   position: absolute;
-  left: -18%;
+  left: -23%;
   bottom: -167px;
   z-index: 2;
 }
@@ -85,8 +85,8 @@ body {
 .cubo {
   display: none;
   position: absolute;
-  top: 55%;
-  left: 6%;
+  top: 54%;
+  left: 11%;
   transform: translateY(-50%);
   z-index: 5;
 }
@@ -178,10 +178,10 @@ body {
   .card {
     height: 65%;
     margin: 0;
-    width: 75%;
+    width: 65%;
   }
   .card-princ h1 {
-    margin: 4rem 0 2rem 1.3rem;
+    margin: 4rem 0 4rem 1.3rem;
     justify-content: left;
   }
   .card .img .pattern {
@@ -191,7 +191,7 @@ body {
     display: flex;
   }
   .card-princ {
-    width: 80%;
-    margin-left: 40px;
+    width: 75%;
+    margin-left: 60px;
   }
 }
